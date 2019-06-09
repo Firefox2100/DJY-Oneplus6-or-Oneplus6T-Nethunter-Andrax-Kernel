@@ -16,8 +16,10 @@
 
 ****
 # 介绍
-大家好我是来自中国的业余玩家ID：***DJY***喜欢唱，跳，Rap，打篮球！！（就是一个打酱油的菜鸟的意思....）
+大家好我是来自中国的业余玩家ID：***DJY***喜欢唱，跳，Rap，打篮球！!(就是一个打酱油的菜鸟的意思....)
+
 ![CXK](Images/CXK.gif)
+
 这是一个支持Kali ***Nethunter***和***Andrax***的全功能内核。适用于***oneplus6***和***oneplus6T***。基本和一台可移动小型Linux差不多，包含了大多数的主流的功能和特性：
 
 * 当前版本DJY-Kernel-V66
@@ -97,7 +99,7 @@ https://github.com/kristofpetho/op6
 
 https://github.com/johanlike/DJY-Nethunter-Andrax-Kernel-Source
 
-- 感谢@meefik @chrisk44 @draguve @simonpunk 对以下代码做出的贡献，以下相关Apps代码使用 Android Studio 3.6Canany3(191.5618338)编译
+感谢@meefik @chrisk44 @draguve @simonpunk 对以下代码做出的贡献，以下相关Apps代码使用 Android Studio 3.6Canany3(191.5618338)编译
 
 https://github.com/meefik/linuxdeploy.git
 
