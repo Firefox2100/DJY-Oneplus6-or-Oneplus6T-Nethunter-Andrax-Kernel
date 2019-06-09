@@ -1,21 +1,21 @@
 # 目录
 * [部分设备](#部分设备)
-* [LANTAP设备支持](#LAN_TAP支持)
+* [LANTAP设备支持](#LAN-TAP支持)
 * [PPPOE嗅探路由器密码](#PPPOE嗅探路由器密码)
 * [PN532](#PN532)
 * [OTG外接蓝牙攻击](#蓝牙攻击)
-* [C118-119](#C118_OSMOCOMBB)
-* [HackRF_UHD](#HackRF_UHD)
-* [Limesdr_UHD](#Limesdr_UHD)
-* [RTL_SDR_UHD](#RTL_SDR_UHD)
-* [USRP_UHD](#USRP_UHD)
+* [C118-119](#C118-OSMOCOMBB)
+* [HackRF-UHD](#HackRF-UHD)
+* [Limesdr-UHD](#Limesdr-UHD)
+* [RTL-SDR-UHD](#RTL-SDR-UHD)
+* [USRP-UHD](#USRP-UHD)
 * [Ubertooth](#Ubertooth)
-* [Yard_stick_one](#Yard_stick_one)
-* [HID_Droidducky](#HID_Droidducky)
+* [Yard-stick-one](#Yard-stick-one)
+* [HID-Droidducky](#HID-Droidducky)
 * [Mousejack](#Mousejack)
 * [Proxmark3CDC驱动](#Proxmark3CDC驱动)
-* [Chameleon_Mini变色龙](#Chameleon_Mini)
-* [Airmon-ng_无线注入支持](#Airmon-ng_无线注入支持)
+* [Chameleon-Mini变色龙](#Chameleon-Mini)
+* [Airmon-ng-无线注入支持](#Airmon-ng无线注入支持)
 * [开机动画自定义](#开机动画自定义)
 
 # 部分设备
@@ -23,7 +23,7 @@
 ![pic](Part-of-equipment.jpg)
 
 ****
-# LAN_TAP支持
+# LAN-TAP支持
 
 ![pic](lan-tap.jpg)
 
@@ -51,7 +51,7 @@
 
 ****
 
-# C118_OSMOCOMBB
+# C118-OSMOCOMBB
 
 ![pic](C118OSB.jpg) 
 ![pic](OSBGSMSniff-Support.png)
@@ -61,7 +61,7 @@
 
 ****
 
-# HackRF_UHD
+# HackRF-UHD
 
 ![pic](HACKRF1.jpg)
 ![pic](HACKRF2.jpg)
@@ -69,20 +69,20 @@
 
 ****
 
-# Limesdr_UHD
+# Limesdr-UHD
 
 ![pic](limesdr-UHD.jpg)
 
 ****
 
-# RTL_SDR_UHD
+# RTL_SDR-UHD
 
 ![pic](RTL-SDR.jpg)
 ![pic](RTL-SDR-KAL-900.jpg)
 
 ****
 
-# USRP_UHD
+# USRP-UHD
 
 ![pic](USRP1-UHD.jpg)
 ![pic](USRP-UHD.jpg)
@@ -102,7 +102,7 @@
 
 ****
 
-# Yard_stick_one
+# Yard-stick-one
 
 ![pic](yard-stick-one-Support1.jpg)
 ![pic](yard-stick-one-Support2.jpg)
@@ -114,7 +114,7 @@
 
 ****
 
-# HID_Droidducky
+# HID-Droidducky
 
 ![pic](HID-BadUSB-Droidducky-Support.jpg)
 
@@ -140,13 +140,13 @@
 <iframe src="//player.bilibili.com/player.html?aid=45941948&cid=80495051&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="640" height="430" allowfullscreen="true"> </iframe>
 
 ****
-# Chameleon_Mini
+# Chameleon-Mini
 
 <iframe src="//player.bilibili.com/player.html?aid=45943906&cid=80498247&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="640" height="430" allowfullscreen="true"> </iframe>
 
 ****
 
-# Airmon-ng_无线注入支持
+# Airmon-ng无线注入支持
 
 ![pic](Wireless1.jpg)
 ![pic](Wireless2.jpg)
