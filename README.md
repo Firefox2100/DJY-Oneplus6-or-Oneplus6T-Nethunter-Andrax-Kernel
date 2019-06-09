@@ -62,7 +62,7 @@
 
 ****
 
-* [点击我查看部分功能测试截图和视频](https://johanlike.github.io/DJY-Oneplus6-or-oneplus6T-Nethunter-Andrax-Kernel/Images/)
+* [点击我查看部分功能测试截图和视频](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/Images/)
 
 ****
 
