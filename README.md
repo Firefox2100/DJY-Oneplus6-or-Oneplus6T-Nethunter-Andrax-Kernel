@@ -3,6 +3,7 @@
 
 ****
 其他语言(翻译来自@Noob-DaoXin 道心 等待翻译中.....): [English](README_EN.md)
+
 * [点击我查看HTML版本介绍](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/)
 
 # 目录
@@ -79,7 +80,7 @@
 
 # 相关代码和致谢列表
 
-特别致谢@simonpunk 对HID修补的大力支持。用到的相关构建代码链接：
+特别致谢***@simonpunk对HID修补的大力支持***。用到的相关构建代码链接：
 
 https://github.com/simonpunk/nethunter-app
 
@@ -87,19 +88,19 @@ https://github.com/pelya/android-keyboard-gadget
 
 https://github.com/simonpunk/Android-Terminal-Emulator
 
-感谢@draguve HID攻击相关开源优秀项目
+感谢***@draguve HID***攻击相关开源优秀项目
 
 https://github.com/draguve/droidducky-app
 
-感谢@kristofpetho优秀开源的内核代码
+感谢***@kristofpetho***优秀开源的内核代码
 
 https://github.com/kristofpetho/op6
 
-这是我已经修复的内核源码，已修复HID和WIFI并将Selinux 永久设为Permissive状态，长期合并Linux官网代码保持最新和将常用无线固件注入到内核中
+***这是我已经修复的内核源码，已修复HID和WIFI并将Selinux 永久设为Permissive状态，长期合并Linux官网代码保持最新和将常用无线固件注入到内核中***
 
 https://github.com/johanlike/DJY-Nethunter-Andrax-Kernel-Source
 
-感谢@meefik @chrisk44 @draguve @simonpunk 对以下代码做出的贡献，以下相关Apps代码使用 Android Studio 3.6Canany3(191.5618338)编译
+感谢 ***@meefik @chrisk44 @draguve @simonpunk*** 对以下代码做出的贡献，以下相关Apps代码使用***Android Studio 3.6Canany3(191.5618338)编译于2019-6-9***
 
 https://github.com/meefik/linuxdeploy.git
 
@@ -117,7 +118,8 @@ https://github.com/simonpunk/Android-Terminal-Emulator
 
 
 # 联系方式
-kali linux QQ交流群：712420808 （欢迎各种大佬萌新进群吹水）
+Kali Linux QQ交流群：712420808 （欢迎各种大佬进群吹水）
 
-电报群组：https://t.me/nethunter666
+电报群组：https://t.me/nethunter666 （欢迎各种大佬萌新进群吹水）
+
 请尊重作者劳动成果,这样才能共同进步(希望国人团结...)如果你需要转载请注明出处谢谢.
