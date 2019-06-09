@@ -20,7 +20,8 @@
 # 介绍
 大家好我是来自中国的业余玩家ID：***DJY***喜欢唱，跳，Rap，打篮球！!(就是一个打酱油的菜鸟的意思....)
 
-<div align=center>![CXK](Images/CXK.gif)
+<div align=center><img width = '500' height ='500' src ="https://raw.githubusercontent.com/johanlike/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/master/Images/CXK.gif"/></div>
+
 
 这是一个支持Kali ***Nethunter***和***Andrax***的全功能内核。适用于***oneplus6***和***oneplus6T***。基本和一台可移动小型Linux差不多，包含了大多数的主流的功能和特性：
 
